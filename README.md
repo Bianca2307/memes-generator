@@ -4,7 +4,8 @@ Introduction Meme Generator is a web app built using React, HTML, CSS, and JavaS
 ![Captură de ecran 2024-02-16 085439](https://github.com/Bianca2307/memes-generator/assets/97783376/4486e19f-c1dc-4fc7-aa35-8db64eda1d83)
 
 Usage To create a meme using Meme Generator, follow these steps:
-1.Choose an image by pressing "get a new meme image".
+
+1.Choose an image by pressing "get a new meme image". 
 2.Add your own custom text to the top and bottom of the image.
 3.Create a new meme :)
 
